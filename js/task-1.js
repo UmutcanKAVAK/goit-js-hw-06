@@ -1,3 +1,4 @@
+// ⚔️⚔️⚔️ MADE BY THORFIN — CODE LIKE A WARRIOR ⚔️⚔️⚔️
 const customer = {
     username: "Mango",
     balance: 24000,
